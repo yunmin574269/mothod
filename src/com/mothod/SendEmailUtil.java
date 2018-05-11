@@ -10,7 +10,7 @@ import java.util.Properties;
 import java.util.Random;
 
 /** 发送邮件 */
-public class SendEmailUtil {
+public class SendEmailUtil   {
 
     private final static  String SERVICE_HOST = "smtp.qq.com";//QQ服务器
 
